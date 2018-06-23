@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\personal\\onion-arch-net-core\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\repos\\personal\\onion-arch-net-core\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\personal\\onion-arch-net-core\\Infrastructure\\obj\\",
+      "outputPath": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

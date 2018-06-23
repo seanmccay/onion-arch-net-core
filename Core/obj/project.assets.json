@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\personal\\onion-arch-net-core\\Core\\Core.csproj",
+      "projectUniqueName": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\repos\\personal\\onion-arch-net-core\\Core\\Core.csproj",
+      "projectPath": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\personal\\onion-arch-net-core\\Core\\obj\\",
+      "outputPath": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
