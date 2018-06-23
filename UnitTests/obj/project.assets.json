@@ -5695,11 +5695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "c:\\repos\\personal\\onion-arch-net-core\\UnitTests\\UnitTests.csproj",
       "projectName": "UnitTests",
-      "projectPath": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\UnitTests\\UnitTests.csproj",
+      "projectPath": "c:\\repos\\personal\\onion-arch-net-core\\UnitTests\\UnitTests.csproj",
       "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-      "outputPath": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\UnitTests\\obj\\",
+      "outputPath": "c:\\repos\\personal\\onion-arch-net-core\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

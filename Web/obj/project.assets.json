@@ -6988,11 +6988,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Web\\Web.csproj",
+      "projectUniqueName": "c:\\repos\\personal\\onion-arch-net-core\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Web\\Web.csproj",
+      "projectPath": "c:\\repos\\personal\\onion-arch-net-core\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\Sean\\.nuget\\packages\\",
-      "outputPath": "c:\\repos\\personal\\onion-arch-net-core\\onion-arch-net-core\\Web\\obj\\",
+      "outputPath": "c:\\repos\\personal\\onion-arch-net-core\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
